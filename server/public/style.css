@@ -30,3 +30,18 @@ background-color: rgba(0, 0, 0, 0)
 .vh100{
   height:100vh;
 }
+
+.project-bg{
+  height: 120vh;
+  background-color: lightgreen;
+}
+
+.grow {
+   transition: all .5s ease-in-out;
+}
+.grow:hover {
+  transform: scale(1.2);
+}
+.overflow-hidden{
+  overflow:hidden;
+}
