@@ -45,3 +45,21 @@ background-color: rgba(0, 0, 0, 0)
 .overflow-hidden{
   overflow:hidden;
 }
+
+.project-shadow {
+  box-shadow: 0 13px 8px -10px rgba(0,0,0,.1);
+}
+
+.skills-bg{
+  height: 120vh;
+  background-color: orange;
+}
+
+.skill-card{
+  border:0;
+  background-color:transparent;
+}
+
+.skill-padding{
+  padding: 40%;
+}
