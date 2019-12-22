@@ -3,3 +3,30 @@
   background-color: lightblue;
   font-size: 3em;
 }
+
+.bg-landing{
+  background-image: url(./images/about.png);
+
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+   background-size: cover;
+  background-position: center center;
+}
+
+.bg-header{
+background-color: rgba(0, 0, 0, 0)
+}
+
+.about-photo {
+
+  object-fit: cover;
+  height: 15em;
+  width: 15em;
+  border-radius: 50%;
+  box-shadow: 0px 3px 9px 1px black;
+}
+
+.vh100{
+  height:100vh;
+}
